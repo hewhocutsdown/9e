@@ -9,7 +9,20 @@
 * 9 "eyes" (aspects) + 0 and 10 (none/all). Base aspect is chosen between 1-9.
 
 # Card Ideas
- *
+ * card for destroying infrastructure, like William of Orange, vs. Twitter and jihadists.
+ * Black & Green (upwing/downwing)
+ * Thank you for smoking
+ * Burning of the library of Baghdad
+ * Player Poker in Mexico
+ * Post-Imperial
+ * Salafism
+ * War on General computing
+ * Zero to oneWarlord (too generic)
+ * Living Wills (Bear Stearns, Dodd-Frank)
+
+# Errata
+ * Baphomet: force toblock
+ * Black Swan: Controls, not owns
 
 # Things to Try
 
@@ -56,6 +69,22 @@
 * Do I replenish my hand at end of turn?
 * Font must support weird characters.
 * alternate end condition: game ends at the third new moon?
+* Shared history. Start play, draw four cards, then three cards, then two cards, then 1 card.
+* Shared play past/future?
+* Capital, by type, spend to play. Actors can help you gain capital. Your goal is the infinite game.... Passive income
+* Late Capitalism (Battle Royale/Hunger Games); demands a 'last man standing', cutthroat approach.
+* Some will be prisoner's dilemma type situations (think the Netrunner version of pledge 0, 1 or 2 credits), where cooperation wins, but defection wins asymmetrically.
+* Demagogue: Can contend with actors once per turn.
+* Scope measured in powers of 10. So scope zero = 1, scope 1 = 10, scope 2 = 100, etc.
+* Strategy: draw up to six so that you can discard at end of turn directly to the past.
+* Max handsize?
+* How does the past affect the present
+* Play occurs at each tempo?
+* Compare with features/constraints of factions (black: destroy planeswalkers but not enchantments)
+* Politicans: brief chaos, reset to status quo; affects present from future.
+* CEOs: sustained influence
+* Invest into technique: withdraw later (think Netrunner)
+* Future stack automatically resolves *first*, counts as a player.
 
 # Feedback Ideas
 
@@ -67,6 +96,7 @@
 * Replace 'grade' with the term 'aspect'
 * Replace interval terminology with 'phase' and go with full/half/quarter/new (as in moon)
 * Fix malchut: Yellow top, olive green right, red russet let, black
+* Replace English sephirot with Hebrew
 
 # Proposed sets
 
@@ -78,7 +108,7 @@
  * X-Risk
  * Plutocratic Insurgency
  * Dead Signal[previously Infosec]
- * Markets In Everything
+ * Markets In Everything [change to Markets & Antimarkets?]
  * Speculations
  * Imperial Decline
  * Institutionalized
@@ -89,4 +119,3 @@
  * Peak Science
  * Four Futures
  * Ecology Without Nature
- * Anthropocene
