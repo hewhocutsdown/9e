@@ -32,8 +32,8 @@ https://www.reddit.com/r/Netrunner/wiki/index
 * Predicament 5: Every odd interval, no cards may be played.
 * Predicament 6: Every interval, each player must burn a card or lose 5 capital.
 
-'''
-Actor 1:
+
+    Actor 1:
 	Interval: 3
 	Duration: 3 x 3
 	Starting Influence/Capital: 5
@@ -52,7 +52,6 @@ Actor 1:
 		Properties:
 		Capacities:
 	Quote: []
-'''
 
 Anthony:
 	I think the strengths are:
