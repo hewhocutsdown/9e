@@ -1,8 +1,8 @@
 # 9e
 ## Nine Eyes TCG
 
-[Metaphor Mapping for Aspects](https://docs.google.com/spreadsheets/d/1cbXYDtiR8HUBW3_iQcRujQPpJ2qiuboeB13vstre3vE/edit?usp=sharing)
-[Cardlist](https://docs.google.com/spreadsheets/d/1NGBV80zlQ3MBXa2TnNz0zUPD9hAA7bRE9Ykypy0irZs/edit?usp=sharing)
+* [Aspects Metaphor Map](https://docs.google.com/spreadsheets/d/1cbXYDtiR8HUBW3_iQcRujQPpJ2qiuboeB13vstre3vE/edit?usp=sharing)
+* [Cardlist](https://docs.google.com/spreadsheets/d/1NGBV80zlQ3MBXa2TnNz0zUPD9hAA7bRE9Ykypy0irZs/edit?usp=sharing)
 
 * Scope (widens/narrows) [Pervasive/Wide/Medium/Narrow/Focused]
 * Domain (only affects certain entities)
