@@ -14,4 +14,6 @@ I'm currently developing the cards using [Squib](http://squib.readthedocs.io/en/
 
 I really like how the [RarePepe](http://avc.com/2017/05/rare-pepe/) phenomenon uses Bitcoin, [Counterparty](https://counterparty.io/), and [PepeCash](http://rarepepedirectory.com/?page_id=1405) to create digital assets of differing rarities and support ownership, trades, etc. I would like to do something similar using Ethereum and [Toshi](https://blog.toshi.org/introducing-token-2f2ceeab6d4c) (previously [Token](http://avc.com/2017/04/token/)).
 
+Update: [ERC721](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24) looks like a promising avenue of approach.
+
 I have an old Python 3 project that tried to do decentralized, cryptographically secure TCGs. The infrastruture now is much better for it. It's unclear whether I'll be able to utilize Cockatrice or [OCTGN](https://github.com/octgn/OCTGN/wiki), or whether I'll have to build a distinct app around the game.
